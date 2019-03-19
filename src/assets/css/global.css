@@ -1,0 +1,21 @@
+.my-gallery{
+  width: 100%;
+  height: 300px;
+}
+.my-gallery img{
+  width:180px;
+}
+
+figure {
+  margin:10px 0 0;
+  padding: 0;
+  width:33.33%;
+  float: left;
+}
+ul{
+  padding: 0;
+  margin: 0;
+}
+li{
+  list-style: none;
+}
